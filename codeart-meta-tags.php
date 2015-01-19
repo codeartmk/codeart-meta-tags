@@ -28,7 +28,7 @@
 */
 
 
-
+/* Define constants */
 define( 'CODEART_META_TAGS_DEFAULT_IMAGE', plugin_dir_url( __FILE__ ) . 'og-logo.jpg' );
 define( 'CODEART_META_TAGS_DESCRIPTION_LENGTH', 80 );
 
